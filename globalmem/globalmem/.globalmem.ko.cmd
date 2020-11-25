@@ -1,0 +1,1 @@
+cmd_/home/zxc/QTProjects/globalmem/globalmem/globalmem.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/zxc/QTProjects/globalmem/globalmem/globalmem.ko /home/zxc/QTProjects/globalmem/globalmem/globalmem.o /home/zxc/QTProjects/globalmem/globalmem/globalmem.mod.o ;  true

@@ -1,3 +1,3 @@
-/home/zxc/QTProjects/globalmem/globalmem/globalmem.ko
-/home/zxc/QTProjects/globalmem/globalmem/globalmem.o
+/home/zxc/AndroidDriversDemos/globalmem/globalmem/globalmem.ko
+/home/zxc/AndroidDriversDemos/globalmem/globalmem/globalmem.o
 

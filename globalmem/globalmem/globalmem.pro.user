@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2020-11-25T00:15:59. -->
+<!-- Written by QtCreator 4.11.0, 2020-11-30T21:46:33. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -69,7 +69,7 @@
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/zxc/QTProjects/globalmem/globalmem</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/zxc/AndroidDriversDemos/globalmem/globalmem</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -276,8 +276,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/zxc/QTProjects/globalmem/globalmem/globalmem.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/zxc/QTProjects/globalmem/globalmem/globalmem.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">globalmem2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/zxc/AndroidDriversDemos/globalmem/globalmem/globalmem.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/zxc/AndroidDriversDemos/globalmem/globalmem/globalmem.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
@@ -288,7 +289,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/zxc/QTProjects/globalmem/globalmem</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/zxc/AndroidDriversDemos/globalmem/globalmem</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
